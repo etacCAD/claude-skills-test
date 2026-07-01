@@ -1,0 +1,14 @@
+{
+  "name": "claude-skills-test",
+  "owner": {
+    "name": "etacCAD"
+  },
+  "plugins": [
+    {
+      "name": "claude-skills-test",
+      "description": "A custom plugin containing imported skills",
+      "source": "./",
+      "version": "1.0.0"
+    }
+  ]
+}

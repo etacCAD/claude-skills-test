@@ -1,0 +1,9 @@
+{
+  "name": "claude-skills-test",
+  "version": "1.0.0",
+  "description": "A custom plugin containing imported skills",
+  "author": {
+    "name": "etacCAD"
+  },
+  "license": "MIT"
+}
